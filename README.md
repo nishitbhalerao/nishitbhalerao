@@ -7,30 +7,13 @@ I am passionate about building real-world web applications and exploring modern 
 
 ## 🚀 Skills  
 
-### 💻 Frontend  
-- HTML  
-- CSS  
-- JavaScript  
-- React  
+### 💻 Frontend :- HTML,CSS,JavaScript,React  
+ 
+### ⚙️ Backend :- Node.js 
 
-### ⚙️ Backend  
-- Node.js  
+### 🗄️ Database :- MongoDB,Supabase 
 
-### 🗄️ Database  
-- MongoDB  
-- Supabase  
-
-### 🔗 Web3  
-- Smart Contracts  
-- Solidity  
-- (Learning) Rust  
-
-### 🛠️ Tools  
-- Git  
-- GitHub  
-- VS Code  
-- Postman  
-- MongoDB Compass  
+### 🛠️ Tools I Use :- Git,Github,VS Code,Postman,MongoDB Compass,Remix IDE,Docker 
 
 ---
 
