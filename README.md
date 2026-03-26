@@ -1,4 +1,64 @@
-## Hi there 👋
+# Hi, I'm Nishit Bhalerao 👋 🚀  
+### Aspiring Full Stack Developer | Web2 + Web3 Enthusiast  
+
+I am passionate about building real-world web applications and exploring modern technologies including Web3, blockchain, and scalable backend systems.
+
+---
+
+## 🚀 Skills  
+
+### 💻 Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+### ⚙️ Backend  
+- Node.js  
+
+### 🗄️ Database  
+- MongoDB  
+- Supabase  
+
+### 🔗 Web3  
+- Smart Contracts  
+- Solidity  
+- (Learning) Rust  
+
+### 🛠️ Tools  
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
+- MongoDB Compass  
+
+---
+
+## 🌱 Currently Learning  
+- Express.js  
+- Blockchain Development  
+- Full Stack Development (MERN)  
+
+---
+
+## 💼 Projects  
+
+- 🔗 [VitalX – Ethereum Health Record System](https://github.com/nishitbhalerao/VitalX-Ethereum-Project)  
+- 🔗 [StellarGuard – Blockchain Security Project](https://github.com/nishitbhalerao/StellarGuard.RiseIn)  
+- 🔗 [Vintage Parts India – Marketplace for Discontinued Auto Parts](https://github.com/nishitbhalerao/Vintage-Parts-India-)  
+- 🔗 [ShopX – E-commerce Platform](https://github.com/nishitbhalerao/ShopX)  
+
+---
+
+## 📫 Connect with Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nishit-bhalerao-851a7231a  
+- 📧 Email: nishitbhalerao@gmail.com  
+
+---
+
+## ⚡ Fun Fact  
+I enjoy building impactful tech solutions and continuously improving my development skills 🚀  
 
 <!--
 **nishitbhalerao/nishitbhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
